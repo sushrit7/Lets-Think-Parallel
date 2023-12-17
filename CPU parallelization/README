@@ -1,0 +1,17 @@
+
+Project consists of seven programs 
+
+-bbs.cpp
+-bbp.cpp
+-qss.cpp
+-qsp.cpp
+-mss.cpp
+-msp.cpp
+-reference.cpp
+
+Codes can be executed in the following format :
+
+[executable name] [amount of random nums to generate] [number of threads to use] [seed value for rand]
+
+for example: bbs 100000 8 10
+
