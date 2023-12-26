@@ -30,9 +30,9 @@ For example:
 
 The GPU Parallelization folder includes three programs implemented in CUDA programming:
 
-- thrust.cu
-- singlethread.cu
-- multithread.cu
+- `thrust.cu`
+- `singlethread.cu`
+- `multithread.cu`
 
 ## Compilation:
 To compile all files, use:
