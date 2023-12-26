@@ -13,6 +13,13 @@ The CPU parallelization section encompasses seven sorting programs, including se
 - `msp.cpp`
 - `reference.cpp`
 
+## Compilation:
+To compile all files, use:
+
+```bash
+make
+```
+
 ### Execution Format:
 
 To execute the programs, use the following format:
