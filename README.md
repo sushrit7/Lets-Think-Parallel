@@ -1,11 +1,10 @@
 # Let's Think Parallel
 
-Welcome to the "Let's Think Parallel" repository! This repository explores parallelization techniques, featuring two folders: CPU Parallelization and GPU Parallelization.
+Welcome to the "Let's Think Parallel" repository! This project delves into parallelization techniques, specifically focusing on two major sections: CPU Parallelization and GPU Parallelization.
 
 ## CPU Parallelization
 
-The CPU Parallelization folder contains seven sorting programs written C++ where the parallel ones are written in OpenMP:
-
+The CPU parallelization section encompasses seven sorting programs, including serial and parallel implementations (using OpenMP) and one utilizing a sorting algorithm from the STL library.
 - `bbs.cpp`
 - `bbp.cpp`
 - `qss.cpp`
